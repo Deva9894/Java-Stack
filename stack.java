@@ -1,4 +1,3 @@
-package com.interview;
 
 import java.util.Scanner;
 import java.util.Stack;
